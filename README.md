@@ -1,1 +1,3 @@
-# mediabridge-releases
+# MediaBridge Releases
+
+Release artifacts for MediaBridge.
