@@ -1,3 +1,3 @@
-# MediaBridge Releases
+# KnowledgeWorks Releases
 
-Release artifacts for MediaBridge.
+Release artifacts for KnowledgeWorks.
